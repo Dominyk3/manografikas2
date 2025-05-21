@@ -1,0 +1,15 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #F5F5F5;
+  color: #10403B;
+  padding: 2rem;
+}
+#app {
+  max-width: 600px;
+  margin: auto;
+  background: #ffffff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
